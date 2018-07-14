@@ -1,0 +1,112 @@
+body {}
+
+.container {
+    width: 1200px;
+    height: 600px;
+    background-color: #EDEEF1;
+    margin: auto;
+}
+
+.col-3 {
+    width: 33.33%;
+    height: 200px;
+    float: left;
+    padding: 10px;
+    box-sizing: border-box;
+}
+
+.col-6 {
+    height: 200px;
+    width: 66.66%;
+    padding: 8px;
+    box-sizing: border-box;
+    float: right;
+}
+
+.container-2 {
+    background-color: #1CA85E;
+    height: 100%;
+    width: 100%;
+    padding: 8px;
+    box-sizing: border-box;
+}
+
+.col-2 {
+    width: 50%;
+    height: 100%;
+    float: left;
+    padding: 8px;
+    box-sizing: border-box;
+}
+
+.col-5 {
+    width: 50%;
+    height: 200px;
+    float: left;
+    padding: 10px;
+    box-sizing: border-box;
+}
+
+.col-4 {
+    width: 40%;
+    height: 200px;
+    float: left;
+    padding: 10px;
+    box-sizing: border-box;
+}
+
+.col-1 {
+    width: 10%;
+    height: 200px;
+    float: left;
+    padding: 10px;
+    box-sizing: border-box;
+}
+
+.bg-one {
+    width: 100%;
+    height: 100%;
+    background-color: #899200;
+}
+
+.bg-three {
+    width: 100%;
+    height: 100%;
+    background-color: #E68C00;
+}
+
+.bg-four {
+    width: 100%;
+    height: 100%;
+    background-color: #006AC7;
+}
+
+.bg-five {
+    width: 100%;
+    height: 100%;
+    background-color: #098D20;
+}
+
+.bg-six {
+    width: 100%;
+    height: 100%;
+    background-color: #2A6835;
+}
+
+.bg-seven {
+    width: 100%;
+    height: 100%;
+    background-color: #AE1AB6;
+}
+
+.bg-eight {
+    width: 100%;
+    height: 100%;
+    background-color: #6B8A23;
+}
+
+.bg-nine {
+    width: 100%;
+    height: 100%;
+    background-color: #94871F;
+}
